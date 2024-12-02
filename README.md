@@ -5,7 +5,7 @@ This project implements a simple client-server application where the client send
 
 ## Features
 - Client-Server communication using TCP sockets.
-- Message hashing using DJB2 or SHA-256.
+- Message hashing using SHA-256.
 - Verifies data integrity by comparing the computed hash with the received hash.
 
 ## How to Use
